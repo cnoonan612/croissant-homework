@@ -2,7 +2,8 @@ body {
   background: #f8e8a6;
 }
 h1,
-p {
+p,
+footer {
   text-align: center;
 }
 .croissant-photo {
